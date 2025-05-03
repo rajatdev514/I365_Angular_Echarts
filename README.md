@@ -25,8 +25,8 @@ It displays the product price data using *bar, **line, and **pie* charts, allowi
 ## 📦 Installation
 
 1. Clone the Repository  
-~ git clone https://github.com/rajatdev514/Angular_Echarts.git  
-~ cd Angular_Echarts  
+~ git clone https://github.com/rajatdev514/I365_Angular_Echarts.git
+~ cd I365_Angular_Echarts  
 
 2. Install Dependencies  
 ~ npm install  

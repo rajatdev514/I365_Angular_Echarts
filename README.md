@@ -1,59 +1,44 @@
-# Echarts
+# 📊 Angular ECharts Product Price Visualization
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.9.
+This project demonstrates how to use *ECharts* in an *Angular* application to visualize product data fetched from an API.
+It displays the product price data using *bar, **line, and **pie* charts, allowing users to dynamically switch between chart types.
 
-## Development server
 
-To start a local development server, run:
+## 🚀 Features
 
-```bash
-ng serve
-```
+- Fetches real-time data from [Fake Store API](https://fakestoreapi.com/)
+- Displays data using:
+  - Bar Chart
+  - Line Chart
+  - Pie Chart
+- Responsive and resizable charts
+- Smooth transitions between chart types
+- Error-handling for API failures
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+## 🛠 Technologies Used
+- Angular 19
+- Apache ECharts
+- RxJS (Observables)
+- TypeScript
+- HTML5, CSS3
 
-## Code scaffolding
+## 📦 Installation
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+1. Clone the Repository  
+~ git clone https://github.com/rajatdev514/Angular_Echarts.git  
+~ cd Angular_Echarts  
 
-```bash
-ng generate component component-name
-```
+2. Install Dependencies  
+~ npm install  
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+3. Run the Application  
+~ ng serve  
 
-```bash
-ng generate --help
-```
+4. Visit in Browser  
+~ Open your browser at: http://localhost:4200  
 
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+# 🙋‍♂ Author  
+-- Rajat Mahajan  
+📧 rajatmahajan.tech@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/rajat-mahajan-074b13229/)  
+🔗 [Portfolio](https://rajatmahajan-tech.netlify.app/)

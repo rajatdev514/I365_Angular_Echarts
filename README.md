@@ -1,7 +1,7 @@
 # 📊 Angular ECharts Product Price Visualization
 
-This project demonstrates how to use *ECharts* in an *Angular* application to visualize product data fetched from an API.
-It displays the product price data using *bar, **line, and **pie* charts, allowing users to dynamically switch between chart types.
+This project demonstrates how to use ECharts in an Angular application to visualize product data fetched from an API.
+It displays the product price data using bar, line and pie charts, allowing users to dynamically switch between chart types.
 
 
 ## 🚀 Features
@@ -17,21 +17,19 @@ It displays the product price data using *bar, **line, and **pie* charts, allowi
 
 ## 🛠 Technologies Used
 - Angular 19
-- Apache ECharts
-- RxJS (Observables)
+- ECharts
 - TypeScript
-- HTML5, CSS3
 
 ## 📦 Installation
 
 1. Clone the Repository  
-~ git clone https://github.com/rajatdev514/I365_Angular_Echarts.git
+~ git clone https://github.com/rajatdev514/I365_Angular_Echarts.git  
 ~ cd I365_Angular_Echarts  
 
 2. Install Dependencies  
 ~ npm install  
 
-3. Run the Application  
+3. Run the Application   
 ~ ng serve  
 
 4. Visit in Browser  
